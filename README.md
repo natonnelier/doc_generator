@@ -33,6 +33,13 @@ And run `bundle install`
 ## Usage
 
 On one hand you need the template setting the format and on the other the dataset with the content to use for replacing standard marks (currently only taking them in the form '[CLAUSE-n]' and '[SECTION-n]').
+
+First you need to require the module:
+
+```
+require 'doc_generator'
+```
+
 Then you can call the main class method:
 
 ```
@@ -67,7 +74,7 @@ Also Rubocop could be used and some style guidelines set.
 
 ## Authors
 
-* **Nicolás Tonnelier** - *Initial work* - [PurpleBooth](https://github.com/natonnelier)
+* **Nicolás Tonnelier** - *Initial work* - [natonnelier](https://github.com/natonnelier)
 
 ## License
 
