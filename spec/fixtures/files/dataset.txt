@@ -1,0 +1,9 @@
+[
+{ "id": 1, "text": 'The quick brown fox 1' },
+{ "id": 2, "text": 'The quick brown fox 2' },
+{ "id": 3, "text": 'The quick brown fox 3' },
+{ "id": 4, "text": 'The quick brown fox 4' },
+{ "id": 5, "text": 'The quick brown fox 5' },
+{ "id": 6, "text": 'The quick brown fox 6' },
+{ "id": 1, "clauses_ids": [1, 2] }
+]
